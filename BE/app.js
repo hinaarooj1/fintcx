@@ -15,6 +15,8 @@ const cron = require("node-cron");
 let ALLOWED_ORIGINS = [
   "https://fintch.io",
   "https://www.fintch.io",
+  "https://fintcx-two.vercel.app",
+  "https://www.fintcx-two.vercel.app",
   "http://localhost:3000",
   "http://localhost:3001",
   "http://localhost:3002",
