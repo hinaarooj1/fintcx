@@ -12558,10 +12558,6 @@ Global css
     background: var(--global-palette9) !important;
 }
 
-::selection {
-    color: var(--global-palette3);
-    background-color: var(--global-palette1);
-}
 
 a:focus,
 .hide-focus-outline *:focus {
