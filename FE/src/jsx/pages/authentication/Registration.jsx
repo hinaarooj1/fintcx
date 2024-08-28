@@ -5,10 +5,7 @@ import { Link, useNavigate } from "react-router-dom";
 import Swal from "sweetalert2";
 import { toast } from "react-toastify";
 
-
-// image
-import logoFull from "../../../assets/images/img";
-
+ 
 function Register(props) {
   const [isloading, setisloading] = useState(false);
   const [chkbx, setchkbx] = useState(false);
